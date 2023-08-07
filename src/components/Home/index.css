@@ -1,0 +1,19 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #152850;
+  height: 85vh;
+}
+
+.digital-card-image {
+  height: 300px;
+  width: 500px;
+}
+
+.heading-home {
+  color: #ffffff;
+  font-family: 'Consolas';
+  font-size: 35px;
+}
